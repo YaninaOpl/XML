@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bugReport>
+  <summary>descriptionOfTheProblem</summary>
+  <project>name</project>
+  <component>functionName</component>
+  <version>number</version>
+  <severity>blocker</severity>
+  <severity>critical</severity>
+  <severity>major</severity>
+  <severity>minor</severity>
+  <severity>trivial</severity>
+  <priority>high</priority>
+  <priority>medium</priority>
+  <priority>low</priority>
+  <stepToReproduce>descriptionOfSteps</stepToReproduce>
+  <actualResult>receivedResult</actualResult>
+  <expectedResult>correctResult</expectedResult>
+</bugReport>
