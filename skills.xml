@@ -5,8 +5,12 @@
     <communication>true</communication>
     <creativity>true</creativity> 
     <teamwork>true</teamwork>
+    <stressResistance>true</stressResistance>
+    <responsibility>true</responsibility>
+    <analyticalSkills>true</analyticalSkills>
+    <clearDocumentation>true</clearDocumentation>
     </softSkills>
-<hardSkills>git,postman</hardSkills>
+<hardSkills>git,postman,SQL,Charles,Fiddler,DevTools,Jmeter,Linux</hardSkills>
 </head>
 </html>
 
